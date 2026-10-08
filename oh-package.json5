@@ -1,0 +1,11 @@
+{
+  "modelVersion": "6.0.1",
+  "name": "mcu_harmonyos",
+  "version": "1.0.0",
+  "description": "銘傳大學 (Ming Chuan University) HarmonyOS native app, refactored from the Android XAPK.",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

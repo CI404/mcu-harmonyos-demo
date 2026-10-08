@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "銘傳大學主模組" },
+    { "name": "EntryAbility_desc", "value": "銘傳大學行動應用程式" },
+    { "name": "EntryAbility_label", "value": "MCU HarmonyOS Demo" },
+    { "name": "app_name", "value": "MCU HarmonyOS Demo" }
+  ]
+}
