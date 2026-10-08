@@ -66,6 +66,8 @@ McuHarmonyOS-demo/
 
 ## 脫敏說明
 
+> 受資訊組要求，本 demo 對 API 進行了模糊處理，不包含任何校方 API 端點、token 或帳號 / 學號資料。
+
 - 無任何校方 API 端點、無 token、無帳號 / 學號資料。
 - `module.json5` 未申請網路權限，程式碼無任何 HTTP / WebView 連線。
 - 登入為「Demo 登入」：輸入任意帳號即建立展示用會話，不驗證、不連網。
